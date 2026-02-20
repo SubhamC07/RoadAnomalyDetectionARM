@@ -1,0 +1,203 @@
+Detections log started: 2026-02-20T18:41:10.237599
+[2026-02-20T18:41:10.813312] frame:0 class:Pothole id:2 conf:0.641 coords:[89.32, 266.00, 212.99, 424.00]
+[2026-02-20T18:41:10.813312] frame:0 class:Pothole id:2 conf:0.323 coords:[-59.44, 302.63, 129.20, 438.91]
+[2026-02-20T18:41:11.056488] frame:1 class:Pothole id:2 conf:0.625 coords:[91.28, 264.06, 215.26, 425.17]
+[2026-02-20T18:41:11.056488] frame:1 class:Pothole id:2 conf:0.308 coords:[-58.46, 302.96, 128.36, 438.58]
+[2026-02-20T18:41:11.204208] frame:2 class:Pothole id:2 conf:0.667 coords:[90.60, 265.43, 213.25, 423.03]
+[2026-02-20T18:41:11.204208] frame:2 class:Pothole id:2 conf:0.352 coords:[-59.68, 303.34, 129.30, 439.73]
+[2026-02-20T18:41:11.371233] frame:3 class:Pothole id:2 conf:0.621 coords:[91.39, 268.59, 210.91, 423.72]
+[2026-02-20T18:41:11.371233] frame:3 class:Pothole id:2 conf:0.260 coords:[-59.42, 303.55, 128.89, 439.53]
+[2026-02-20T18:41:11.524910] frame:4 class:Pothole id:2 conf:0.568 coords:[89.94, 265.48, 213.14, 423.75]
+[2026-02-20T18:41:11.524910] frame:4 class:Pothole id:2 conf:0.254 coords:[-59.77, 303.13, 129.68, 439.95]
+[2026-02-20T18:41:11.667964] frame:5 class:Pothole id:2 conf:0.515 coords:[89.96, 271.32, 207.54, 421.76]
+[2026-02-20T18:41:11.822874] frame:6 class:Pothole id:2 conf:0.394 coords:[89.48, 267.95, 212.06, 422.82]
+[2026-02-20T18:41:11.969835] frame:7 class:Pothole id:2 conf:0.364 coords:[89.24, 268.60, 211.72, 422.94]
+[2026-02-20T18:41:12.114836] frame:8 class:Pothole id:2 conf:0.484 coords:[91.02, 267.13, 214.95, 425.18]
+[2026-02-20T18:41:12.247111] frame:9 class:Pothole id:2 conf:0.347 coords:[89.60, 268.00, 214.43, 424.31]
+[2026-02-20T18:41:12.361105] frame:10 no_detections
+[2026-02-20T18:41:12.486093] frame:11 class:Pothole id:2 conf:0.327 coords:[167.62, 261.88, 292.38, 421.97]
+[2026-02-20T18:41:12.610654] frame:12 no_detections
+[2026-02-20T18:41:12.732066] frame:13 class:Pothole id:2 conf:0.284 coords:[205.90, 257.56, 330.64, 413.21]
+[2026-02-20T18:41:12.878283] frame:14 class:Pothole id:2 conf:0.521 coords:[209.07, 254.44, 335.55, 412.48]
+[2026-02-20T18:41:12.999165] frame:15 class:Pothole id:2 conf:0.290 coords:[219.47, 265.75, 343.99, 419.64]
+[2026-02-20T18:41:13.140007] frame:16 class:Pothole id:2 conf:0.495 coords:[216.96, 321.60, 340.35, 469.17]
+[2026-02-20T18:41:13.261000] frame:17 no_detections
+[2026-02-20T18:41:13.384810] frame:18 no_detections
+[2026-02-20T18:41:13.504932] frame:19 no_detections
+[2026-02-20T18:41:13.627388] frame:20 no_detections
+[2026-02-20T18:41:13.768095] frame:21 class:Alligator Cracking id:0 conf:0.435 coords:[451.54, 342.50, 640.00, 479.04]
+[2026-02-20T18:41:13.906800] frame:22 class:Pothole id:2 conf:0.395 coords:[72.40, 136.53, 426.06, 651.17]
+[2026-02-20T18:41:14.020969] frame:23 no_detections
+[2026-02-20T18:41:14.136697] frame:24 no_detections
+[2026-02-20T18:41:14.260520] frame:25 no_detections
+[2026-02-20T18:41:14.384642] frame:26 no_detections
+[2026-02-20T18:41:14.505684] frame:27 no_detections
+[2026-02-20T18:41:14.627817] frame:28 no_detections
+[2026-02-20T18:41:14.753776] frame:29 no_detections
+[2026-02-20T18:41:14.888599] frame:30 no_detections
+[2026-02-20T18:41:15.006230] frame:31 no_detections
+[2026-02-20T18:41:15.128196] frame:32 no_detections
+[2026-02-20T18:41:15.251919] frame:33 no_detections
+[2026-02-20T18:41:15.372511] frame:34 no_detections
+[2026-02-20T18:41:15.497834] frame:35 no_detections
+[2026-02-20T18:41:15.634448] frame:36 class:Rutting id:3 conf:0.450 coords:[-22.75, 117.53, 285.83, 496.31]
+[2026-02-20T18:41:15.783267] frame:37 class:Alligator Cracking id:0 conf:0.431 coords:[237.12, 109.81, 639.81, 368.65]
+[2026-02-20T18:41:15.929047] frame:38 class:Alligator Cracking id:0 conf:0.553 coords:[213.85, 105.00, 640.00, 378.08]
+[2026-02-20T18:41:16.063896] frame:39 class:Alligator Cracking id:0 conf:0.468 coords:[193.85, 108.65, 640.00, 402.12]
+[2026-02-20T18:41:16.194220] frame:40 class:Alligator Cracking id:0 conf:0.452 coords:[140.58, 114.90, 639.81, 428.94]
+[2026-02-20T18:41:16.322966] frame:41 class:Alligator Cracking id:0 conf:0.781 coords:[100.38, 132.88, 639.23, 475.19]
+[2026-02-20T18:41:16.457218] frame:42 class:Alligator Cracking id:0 conf:0.821 coords:[83.85, 140.10, 639.23, 478.37]
+[2026-02-20T18:41:16.600221] frame:43 class:Alligator Cracking id:0 conf:0.633 coords:[71.15, 140.87, 639.62, 478.37]
+[2026-02-20T18:41:16.743393] frame:44 class:Alligator Cracking id:0 conf:0.699 coords:[72.69, 140.58, 639.62, 477.12]
+[2026-02-20T18:41:16.886184] frame:45 class:Alligator Cracking id:0 conf:0.674 coords:[68.46, 149.23, 639.23, 477.31]
+[2026-02-20T18:41:17.034410] frame:46 class:Alligator Cracking id:0 conf:0.694 coords:[67.69, 149.52, 639.23, 477.40]
+[2026-02-20T18:41:17.181220] frame:47 class:Alligator Cracking id:0 conf:0.650 coords:[66.15, 151.25, 641.54, 474.90]
+[2026-02-20T18:41:17.309786] frame:48 class:Alligator Cracking id:0 conf:0.689 coords:[69.23, 153.56, 640.77, 474.13]
+[2026-02-20T18:41:17.460221] frame:49 class:Alligator Cracking id:0 conf:0.708 coords:[71.35, 159.52, 639.81, 475.87]
+[2026-02-20T18:41:17.601824] frame:50 class:Alligator Cracking id:0 conf:0.705 coords:[76.15, 161.35, 640.00, 474.04]
+[2026-02-20T18:41:17.752861] frame:51 class:Alligator Cracking id:0 conf:0.759 coords:[70.38, 170.19, 638.85, 481.35]
+[2026-02-20T18:41:17.888053] frame:52 class:Alligator Cracking id:0 conf:0.685 coords:[110.77, 199.13, 640.38, 480.10]
+[2026-02-20T18:41:18.029980] frame:53 class:Alligator Cracking id:0 conf:0.630 coords:[140.19, 237.79, 640.96, 476.06]
+[2026-02-20T18:41:18.173281] frame:54 class:Alligator Cracking id:0 conf:0.595 coords:[193.46, 292.98, 640.38, 480.10]
+[2026-02-20T18:41:18.297819] frame:55 no_detections
+[2026-02-20T18:41:18.439538] frame:56 class:Rutting id:3 conf:0.352 coords:[-11.51, 256.42, 354.58, 498.20]
+[2026-02-20T18:41:18.567331] frame:57 no_detections
+[2026-02-20T18:41:18.689400] frame:58 no_detections
+[2026-02-20T18:41:18.803622] frame:59 no_detections
+[2026-02-20T18:41:18.915635] frame:60 no_detections
+[2026-02-20T18:41:19.030696] frame:61 no_detections
+[2026-02-20T18:41:19.146048] frame:62 no_detections
+[2026-02-20T18:41:19.263535] frame:63 no_detections
+[2026-02-20T18:41:19.386006] frame:64 no_detections
+[2026-02-20T18:41:19.504029] frame:65 no_detections
+[2026-02-20T18:41:19.632073] frame:66 no_detections
+[2026-02-20T18:41:19.757541] frame:67 no_detections
+[2026-02-20T18:41:19.874749] frame:68 no_detections
+[2026-02-20T18:41:19.994946] frame:69 no_detections
+[2026-02-20T18:41:20.113749] frame:70 no_detections
+[2026-02-20T18:41:20.243437] frame:71 no_detections
+[2026-02-20T18:41:20.364903] frame:72 no_detections
+[2026-02-20T18:41:20.502648] frame:73 no_detections
+[2026-02-20T18:41:20.634400] frame:74 no_detections
+[2026-02-20T18:41:20.761686] frame:75 no_detections
+[2026-02-20T18:41:20.883637] frame:76 no_detections
+[2026-02-20T18:41:21.025956] frame:77 class:Alligator Cracking id:0 conf:0.798 coords:[398.94, 9.04, 639.52, 342.50]
+[2026-02-20T18:41:21.177269] frame:78 class:Alligator Cracking id:0 conf:0.761 coords:[374.62, -1.73, 640.00, 357.50]
+[2026-02-20T18:41:21.325114] frame:79 class:Alligator Cracking id:0 conf:0.787 coords:[374.71, 1.35, 639.90, 398.27]
+[2026-02-20T18:41:21.469324] frame:80 no_detections
+[2026-02-20T18:41:21.615270] frame:81 class:Rutting id:3 conf:0.442 coords:[282.45, -1.65, 662.16, 376.27]
+[2026-02-20T18:41:21.615270] frame:81 class:bleeding id:5 conf:0.346 coords:[-1.87, 265.02, 219.18, 516.52]
+[2026-02-20T18:41:21.762360] frame:82 class:Alligator Cracking id:0 conf:0.771 coords:[280.38, 7.31, 639.62, 461.92]
+[2026-02-20T18:41:21.905239] frame:83 class:Alligator Cracking id:0 conf:0.830 coords:[263.46, 36.35, 639.62, 481.73]
+[2026-02-20T18:41:22.054596] frame:84 class:Alligator Cracking id:0 conf:0.862 coords:[217.31, 161.25, 639.62, 478.75]
+[2026-02-20T18:41:22.192726] frame:85 no_detections
+[2026-02-20T18:41:22.350242] frame:86 class:Alligator Cracking id:0 conf:0.808 coords:[72.12, 203.46, 639.81, 478.08]
+[2026-02-20T18:41:22.492908] frame:87 class:Alligator Cracking id:0 conf:0.711 coords:[0.38, 167.79, 639.23, 481.44]
+[2026-02-20T18:41:22.626837] frame:88 class:Alligator Cracking id:0 conf:0.557 coords:[4.23, 183.27, 638.85, 535.19]
+[2026-02-20T18:41:22.738656] frame:89 no_detections
+[2026-02-20T18:41:22.857939] frame:90 no_detections
+[2026-02-20T18:41:22.980828] frame:91 class:Alligator Cracking id:0 conf:0.276 coords:[22.31, 305.00, 638.46, 557.31]
+[2026-02-20T18:41:23.103073] frame:92 no_detections
+[2026-02-20T18:41:23.221980] frame:93 no_detections
+[2026-02-20T18:41:23.340892] frame:94 no_detections
+[2026-02-20T18:41:23.466179] frame:95 no_detections
+[2026-02-20T18:41:23.586420] frame:96 no_detections
+[2026-02-20T18:41:23.709015] frame:97 no_detections
+[2026-02-20T18:41:23.823481] frame:98 no_detections
+[2026-02-20T18:41:23.942446] frame:99 no_detections
+[2026-02-20T18:41:24.061364] frame:100 no_detections
+[2026-02-20T18:41:24.176682] frame:101 no_detections
+[2026-02-20T18:41:24.300578] frame:102 no_detections
+[2026-02-20T18:41:24.424929] frame:103 no_detections
+[2026-02-20T18:41:24.548992] frame:104 no_detections
+[2026-02-20T18:41:24.664183] frame:105 class:Alligator Cracking id:0 conf:0.253 coords:[0.00, 235.96, 639.62, 559.42]
+[2026-02-20T18:41:24.794981] frame:106 no_detections
+[2026-02-20T18:41:24.912469] frame:107 no_detections
+[2026-02-20T18:41:25.027227] frame:108 class:Alligator Cracking id:0 conf:0.484 coords:[0.19, 225.96, 639.81, 558.65]
+[2026-02-20T18:41:25.176318] frame:109 class:Alligator Cracking id:0 conf:0.309 coords:[0.00, 215.00, 640.00, 550.38]
+[2026-02-20T18:41:25.306984] frame:110 class:Alligator Cracking id:0 conf:0.490 coords:[0.00, 205.19, 640.00, 550.96]
+[2026-02-20T18:41:25.429800] frame:111 no_detections
+[2026-02-20T18:41:25.547410] frame:112 no_detections
+[2026-02-20T18:41:25.665201] frame:113 class:Alligator Cracking id:0 conf:0.252 coords:[0.58, 151.15, 639.81, 461.15]
+[2026-02-20T18:41:25.802908] frame:114 class:Alligator Cracking id:0 conf:0.567 coords:[1.15, 124.04, 639.62, 452.88]
+[2026-02-20T18:41:25.949103] frame:115 class:Alligator Cracking id:0 conf:0.785 coords:[0.00, 110.38, 640.00, 438.46]
+[2026-02-20T18:41:26.062537] frame:116 class:Alligator Cracking id:0 conf:0.511 coords:[3.08, 115.96, 640.77, 418.65]
+[2026-02-20T18:41:26.186513] frame:117 class:Alligator Cracking id:0 conf:0.411 coords:[3.46, 115.77, 641.15, 420.77]
+[2026-02-20T18:41:26.308574] frame:118 class:Alligator Cracking id:0 conf:0.263 coords:[2.69, 115.19, 641.15, 419.04]
+[2026-02-20T18:41:26.437304] frame:119 class:Alligator Cracking id:0 conf:0.350 coords:[3.46, 115.96, 641.15, 421.35]
+[2026-02-20T18:41:26.580776] frame:120 class:Alligator Cracking id:0 conf:0.556 coords:[3.46, 116.73, 641.15, 421.35]
+[2026-02-20T18:41:26.722954] frame:121 class:Alligator Cracking id:0 conf:0.683 coords:[3.08, 115.38, 640.77, 426.15]
+[2026-02-20T18:41:26.880969] frame:122 class:Alligator Cracking id:0 conf:0.796 coords:[0.58, 111.73, 639.81, 437.50]
+[2026-02-20T18:41:27.013699] frame:123 class:Alligator Cracking id:0 conf:0.415 coords:[2.69, 117.50, 639.62, 429.42]
+[2026-02-20T18:41:27.151761] frame:124 no_detections
+[2026-02-20T18:41:27.309801] frame:125 class:Alligator Cracking id:0 conf:0.841 coords:[-0.96, 120.29, 631.73, 467.40]
+[2026-02-20T18:41:27.443744] frame:126 class:Rutting id:3 conf:0.468 coords:[41.45, 221.50, 650.86, 508.50]
+[2026-02-20T18:41:27.577218] frame:127 class:Alligator Cracking id:0 conf:0.447 coords:[328.17, 315.29, 638.75, 475.48]
+[2026-02-20T18:41:27.693503] frame:128 no_detections
+[2026-02-20T18:41:27.845890] frame:129 class:Pothole id:2 conf:0.731 coords:[-5.16, 126.61, 183.62, 341.85]
+[2026-02-20T18:41:27.980034] frame:130 class:Pothole id:2 conf:0.792 coords:[-42.75, 272.56, 163.90, 454.36]
+[2026-02-20T18:41:27.980034] frame:130 class:Rutting id:3 conf:0.362 coords:[340.45, 183.60, 652.62, 418.71]
+[2026-02-20T18:41:27.980034] frame:130 class:Pothole id:2 conf:0.264 coords:[-10.23, 144.00, 134.08, 299.07]
+[2026-02-20T18:41:27.980034] frame:130 class:Pothole id:2 conf:0.262 coords:[107.34, 197.50, 193.63, 304.42]
+[2026-02-20T18:41:28.119198] frame:131 class:Pothole id:2 conf:0.490 coords:[-8.31, 281.01, 102.78, 399.76]
+[2026-02-20T18:41:28.119198] frame:131 class:Pothole id:2 conf:0.377 coords:[-15.06, 137.48, 103.24, 255.98]
+[2026-02-20T18:41:28.119198] frame:131 class:Pothole id:2 conf:0.372 coords:[-57.73, 263.59, 151.15, 426.41]
+[2026-02-20T18:41:28.251056] frame:132 class:Pothole id:2 conf:0.817 coords:[-40.23, 234.52, 168.50, 422.40]
+[2026-02-20T18:41:28.396432] frame:133 class:Pothole id:2 conf:0.736 coords:[-37.00, 236.09, 175.17, 432.38]
+[2026-02-20T18:41:28.528678] frame:134 class:Pothole id:2 conf:0.744 coords:[-37.23, 237.42, 175.69, 434.12]
+[2026-02-20T18:41:28.528678] frame:134 class:Pothole id:2 conf:0.332 coords:[130.10, 156.02, 210.28, 263.98]
+[2026-02-20T18:41:28.665916] frame:135 class:Pothole id:2 conf:0.804 coords:[-34.64, 234.69, 173.87, 429.93]
+[2026-02-20T18:41:28.803561] frame:136 class:Pothole id:2 conf:0.791 coords:[-42.06, 74.80, 248.99, 356.74]
+[2026-02-20T18:41:28.803561] frame:136 class:Pothole id:2 conf:0.363 coords:[182.75, 2.73, 264.18, 112.85]
+[2026-02-20T18:41:28.803561] frame:136 class:Pothole id:2 conf:0.292 coords:[7.21, 321.06, 75.68, 390.48]
+[2026-02-20T18:41:28.958421] frame:137 class:Pothole id:2 conf:0.779 coords:[-23.14, 174.27, 244.68, 456.50]
+[2026-02-20T18:41:28.958421] frame:137 class:Pothole id:2 conf:0.332 coords:[113.60, 231.18, 225.05, 356.90]
+[2026-02-20T18:41:29.102890] frame:138 class:Pothole id:2 conf:0.758 coords:[-30.16, 168.25, 247.85, 452.52]
+[2026-02-20T18:41:29.245833] frame:139 class:Pothole id:2 conf:0.731 coords:[-26.68, 171.37, 244.95, 452.86]
+[2026-02-20T18:41:29.245833] frame:139 class:Pothole id:2 conf:0.286 coords:[107.22, 223.18, 219.32, 352.59]
+[2026-02-20T18:41:29.395081] frame:140 class:Pothole id:2 conf:0.650 coords:[-26.59, 173.87, 244.28, 454.59]
+[2026-02-20T18:41:29.395081] frame:140 class:Pothole id:2 conf:0.421 coords:[107.08, 224.18, 219.65, 352.36]
+[2026-02-20T18:41:29.395081] frame:140 class:Pothole id:2 conf:0.277 coords:[63.67, 187.03, 157.68, 295.27]
+[2026-02-20T18:41:29.544380] frame:141 class:Pothole id:2 conf:0.703 coords:[-25.26, 170.87, 243.73, 451.43]
+[2026-02-20T18:41:29.544380] frame:141 class:Pothole id:2 conf:0.334 coords:[107.71, 224.44, 219.02, 352.87]
+[2026-02-20T18:41:29.544380] frame:141 class:Pothole id:2 conf:0.256 coords:[63.83, 186.61, 157.51, 295.70]
+[2026-02-20T18:41:29.691338] frame:142 class:Pothole id:2 conf:0.760 coords:[-29.52, 185.72, 243.75, 465.05]
+[2026-02-20T18:41:29.691338] frame:142 class:Pothole id:2 conf:0.337 coords:[61.24, 202.27, 153.19, 307.73]
+[2026-02-20T18:41:29.691338] frame:142 class:Pothole id:2 conf:0.252 coords:[-17.41, 308.64, 110.30, 432.13]
+[2026-02-20T18:41:29.843714] frame:143 class:Pothole id:2 conf:0.738 coords:[-36.55, 184.69, 250.97, 470.69]
+[2026-02-20T18:41:29.843714] frame:143 class:Pothole id:2 conf:0.273 coords:[192.87, 127.48, 274.82, 238.67]
+[2026-02-20T18:41:29.993519] frame:144 class:Pothole id:2 conf:0.772 coords:[-30.71, 188.36, 243.98, 467.80]
+[2026-02-20T18:41:29.993519] frame:144 class:Pothole id:2 conf:0.373 coords:[61.90, 203.10, 153.10, 307.28]
+[2026-02-20T18:41:29.993519] frame:144 class:Pothole id:2 conf:0.294 coords:[190.73, 129.82, 275.42, 240.18]
+[2026-02-20T18:41:30.151087] frame:145 class:Pothole id:2 conf:0.745 coords:[-35.23, 185.64, 249.07, 469.75]
+[2026-02-20T18:41:30.151087] frame:145 class:Pothole id:2 conf:0.314 coords:[192.00, 126.64, 277.62, 238.75]
+[2026-02-20T18:41:30.286763] frame:146 class:Pothole id:2 conf:0.729 coords:[-34.67, 186.39, 248.33, 469.76]
+[2026-02-20T18:41:30.286763] frame:146 class:Pothole id:2 conf:0.295 coords:[192.13, 127.11, 277.10, 239.05]
+[2026-02-20T18:41:30.437500] frame:147 class:Pothole id:2 conf:0.764 coords:[-31.75, 186.26, 244.63, 466.05]
+[2026-02-20T18:41:30.437500] frame:147 class:Pothole id:2 conf:0.276 coords:[60.08, 201.98, 151.65, 305.33]
+[2026-02-20T18:41:30.595735] frame:148 class:Pothole id:2 conf:0.688 coords:[-36.40, 191.71, 246.98, 472.91]
+[2026-02-20T18:41:30.595735] frame:148 class:Pothole id:2 conf:0.273 coords:[58.87, 203.04, 147.47, 304.65]
+[2026-02-20T18:41:30.727863] frame:149 class:Pothole id:2 conf:0.714 coords:[-36.20, 191.91, 246.58, 472.70]
+[2026-02-20T18:41:30.727863] frame:149 class:Pothole id:2 conf:0.265 coords:[188.43, 126.18, 275.80, 240.74]
+[2026-02-20T18:41:30.727863] frame:149 class:Pothole id:2 conf:0.260 coords:[59.26, 202.94, 147.85, 305.14]
+[2026-02-20T18:41:30.886121] frame:150 class:Pothole id:2 conf:0.696 coords:[-36.36, 192.52, 246.36, 472.86]
+[2026-02-20T18:41:30.886121] frame:150 class:Pothole id:2 conf:0.310 coords:[186.95, 126.34, 274.20, 239.81]
+[2026-02-20T18:41:30.886121] frame:150 class:Pothole id:2 conf:0.302 coords:[59.48, 203.42, 147.63, 304.66]
+[2026-02-20T18:41:31.034479] frame:151 class:Pothole id:2 conf:0.691 coords:[-34.88, 191.70, 245.45, 471.37]
+[2026-02-20T18:41:31.034479] frame:151 class:Pothole id:2 conf:0.266 coords:[59.90, 203.36, 147.79, 304.34]
+[2026-02-20T18:41:31.187045] frame:152 class:Pothole id:2 conf:0.679 coords:[-36.61, 193.42, 246.61, 474.27]
+[2026-02-20T18:41:31.187045] frame:152 class:Pothole id:2 conf:0.310 coords:[58.48, 203.33, 146.71, 305.13]
+[2026-02-20T18:41:31.187045] frame:152 class:Pothole id:2 conf:0.280 coords:[186.90, 126.08, 275.41, 241.23]
+[2026-02-20T18:41:31.332584] frame:153 class:Pothole id:2 conf:0.648 coords:[-35.35, 192.53, 245.35, 472.09]
+[2026-02-20T18:41:31.332584] frame:153 class:Pothole id:2 conf:0.313 coords:[59.72, 203.85, 147.20, 304.23]
+[2026-02-20T18:41:31.332584] frame:153 class:Pothole id:2 conf:0.272 coords:[187.91, 127.31, 273.63, 239.61]
+[2026-02-20T18:41:31.476453] frame:154 class:Pothole id:2 conf:0.695 coords:[-36.10, 193.02, 246.10, 473.13]
+[2026-02-20T18:41:31.476453] frame:154 class:Pothole id:2 conf:0.311 coords:[58.85, 203.42, 147.31, 304.66]
+[2026-02-20T18:41:31.595820] frame:155 class:Pothole id:2 conf:0.709 coords:[-37.17, 193.91, 246.78, 474.55]
+[2026-02-20T18:41:31.595820] frame:155 class:Pothole id:2 conf:0.263 coords:[59.22, 203.84, 147.89, 305.39]
+[2026-02-20T18:41:31.739539] frame:156 class:Pothole id:2 conf:0.657 coords:[-35.96, 193.79, 245.96, 473.91]
+[2026-02-20T18:41:31.739539] frame:156 class:Pothole id:2 conf:0.302 coords:[59.48, 203.90, 147.44, 304.56]
+[2026-02-20T18:41:31.739539] frame:156 class:Pothole id:2 conf:0.277 coords:[187.31, 126.87, 273.84, 239.67]
+[2026-02-20T18:41:31.893812] frame:157 class:Pothole id:2 conf:0.682 coords:[-37.59, 193.54, 247.40, 474.92]
+[2026-02-20T18:41:31.893812] frame:157 class:Pothole id:2 conf:0.293 coords:[186.83, 127.64, 272.79, 239.28]
+[2026-02-20T18:41:31.893812] frame:157 class:Pothole id:2 conf:0.262 coords:[59.54, 203.55, 147.19, 304.91]
