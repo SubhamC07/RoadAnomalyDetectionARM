@@ -8,7 +8,7 @@
 
 Configuration: edit the CONFIG block below or pass environment changes as needed.
 
-Author: adapted from user's original script (converted to headless)
+Author: Subham Chhotaray
 """
 
 from __future__ import annotations
